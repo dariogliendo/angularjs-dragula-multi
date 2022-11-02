@@ -1,0 +1,15 @@
+{
+  "name": "angularjs-dragula-multi",
+  "version": "1.0.0",
+  "description": "Alternative dragula wrapper for AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Darío Liendo",
+  "license": "ISC",
+  "dependencies": {
+    "dragula": "^3.7.3"
+  }
+}
